@@ -1,0 +1,171 @@
+#principal { width: 100%;
+    margin: 0 auto;
+
+}
+#conteudo {
+    clear: both;
+margin-left: 45%;
+font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#conteudo2 {
+    clear: both;
+margin-left: 40%;
+font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#navegacao {
+    margin-right: 50px;
+    float: right;
+
+}
+
+#menu {
+    list-style-type: none;
+}
+#menu li {
+    display: inline-block; /* menu horizontal*/
+    padding-left: 10px;
+    padding-right: 240px;
+    font-size: larger;
+    border-left: solid black 2px; /* borda sólida preta com 5 pixels de espessura*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fundo {
+    background-color: rgba(152, 80, 219, 0.405);
+  
+    
+
+}
+.nome {
+   font-size:  300%;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding-right: 28%;
+    padding-top: -60px;
+}
+
+
+
+.flex-item {
+    width: 90%;
+    padding-left: 38%;
+    margin-top: -15%;
+}
+
+#textinho {
+    
+font-size: xx-large;
+margin-left: 70%;
+margin-top: 25%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-item2 {
+    width: 100%;
+    margin-top: -10px;
+    padding-left: 100px;
+    padding-right: 0%;
+}    
+
+.flex-item3 {
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 0%;
+}
+
+.flex-item4 {
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 36%;
+    
+}
+.flex-item5 {
+  width: 100%;
+  margin-top: -18.5%;
+  padding-left: 67%;
+}
+
+img {
+    width: 25%;
+  
+}
+#texto1 {
+    text-align: justify;
+    margin-left: 35%;
+    font-size: x-large;
+  width: 55%;
+    margin-top: -42%;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#curta1 {
+     padding-left: 40px;
+    width: auto;
+}
+#curta2 {
+    padding-left: 55%;
+    margin-top: -23.5%;
+    width: auto;
+}
+#curta3 {
+    padding-left: 40px;
+    margin-bottom: 40px;
+   width: auto;
+}
+#curta4 {
+    padding-left: 54%;
+   margin-top: -24.5%;
+    width: auto;}
+
+#informacao1 {
+    font-size: x-large;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#informacao2 {
+    font-size: x-large;
+    padding-left: 55%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#informacao3 {
+    font-size: x-large;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#informacao4 {
+    font-size: x-large;
+    padding-left: 55%;
+    font-family: Arial, Helvetica, sans-serif;}
+
+#edit1 {
+
+    padding-left: 3%;
+}
+#edit2 {
+    padding-left: 35%;
+    margin-top: -26.5%;
+}
+#edit3 {
+    padding-left: 67%;
+    margin-top: -26.5%;
+}
+#prints {
+    padding-left: 36%;
+    width: 100%;
+}
+.texto2 {
+    text-align: justify;
+    margin-left: 35%;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
